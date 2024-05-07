@@ -1,6 +1,6 @@
 # ZetaChain
 
-ZetaChain is a public, decentralized blockchain and smart contract  platform builtfor  omnichain  interoperability.
+ZetaChain is a public, decentralized  blockchain and  smart contract  platform builtfor  omnichain interoperability.
 
 ## What's in this repo?
 
